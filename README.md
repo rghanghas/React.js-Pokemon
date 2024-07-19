@@ -1,8 +1,10 @@
-# React + Vite
+# React.js app which generates Random Pokemon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run the application you need to be a POKEMON Fan and follow below steps:
 
-Currently, two official plugins are available:
+npm install
+npm run dev
+Open the link provided in the terminal.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/74cd5d65-7246-4eca-ac13-f976c51858ac)
+
