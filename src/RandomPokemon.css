@@ -1,0 +1,14 @@
+.pokemon {
+    border: 1px solid black;
+    width: 400px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+.pokemon h1 {
+    color: blue;
+}
+
+.pokemon img {
+    width: 150px;
+}
